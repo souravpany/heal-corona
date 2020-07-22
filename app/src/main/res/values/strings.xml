@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Heal Corona</string>
+
+
+    <!--Network/system error-->
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="permission_denied">Permission Denied</string>
+
+
+    <!--Share Strings-->
+    <string name="share_app">I recommend the HealCorona Android application to get the latest information and updates about the Corona Virus(COVID-19),
+    from India and all Corona affected countries of the world. \nIt also helps you with Symptoms, Precautions and
+    other important information\n.
+        \n\n Download Link:- https://drive.google.com/open?id=1GJApo4ac8b6gPv-VL2xvfvCfxqszl_A8\n</string>
+
+
+    <!--dash board -->
+    <string name="share">Share</string>
+
+    <string name="global_updates">Global Updates</string>
+    <string name="india_updates">India Updates</string>
+    <string name="db_info"><![CDATA[Government of India is taking all necessary steps to ensure that we are prepared well to face the challenge and threat posed by the growing pandemic of COVID 19 – the Corona Virus.]]></string>
+    <string name="indiaFightsCorona">#IndiaFightsCorona</string>
+
+
+    <!--Precaution Strings-->
+    <string name="precautions">Precautions</string>
+    <string name="precaution1">Stay away from people and maintain social distancing.</string>
+    <string name="precaution2">Wash your hands frequently with soap, at least for 20 seconds.</string>
+    <string name="precaution3">Avoid frequently touching your nose,eyes and face.</string>
+    <string name="precaution4">Stay at home if you feel sick.</string>
+    <string name="precaution5">Use handkerchief while sneezing and coughing.</string>
+
+
+    <!--Symptoms String-->
+    <string name="symptoms">Symptoms</string>
+    <string name="symptoms_heading">COVID&#8211;19 symptoms range from mild to severe.
+        It takes 2&#8211;14 days after exposure for symptoms to develop. Symptoms may include:</string>
+    <string name="symptom1">Fever</string>
+    <string name="symptom2">Cough</string>
+    <string name="symptom3">Shortness of breath or difficulty breathing</string>
+    <string name="symptom4">Tiredness</string>
+    <string name="symptom5">Aches</string>
+    <string name="symptom6">Runny nose</string>
+    <string name="symptom7">Sore throat</string>
+    <string name="total_cases">Confirmed</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="search_by_country">Search by country</string>
+
+    <string name="search_by_state">Search by state</string>
+    <string name="check_internet_connection">Check internet connection and try again</string>
+    <string name="retry">Retry</string>
+    <string name="active">Activite</string>
+    <string name="New">New</string>
+
+
+</resources>
